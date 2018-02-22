@@ -1,0 +1,14 @@
+{
+  "name": "free-coming-soon-page-master",
+  "version": "1.0.0",
+  "description": "under construction page for ellebelleproductions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alsidneio F. Bell Sr.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
