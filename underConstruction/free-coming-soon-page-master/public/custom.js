@@ -72,5 +72,4 @@ $("#cspio-form").submit(function(event){
         // Reenable the inputs
         $inputs.prop("disabled", false);
     });
-
 });
